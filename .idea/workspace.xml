@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8403670b-01f8-4c07-b632-bcf375fbae47" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Jy218Mco4WkeinYS69bXlDiuPx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/FGestionBanque" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.MyFrame">
+    <configuration name="FormService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predentation.vue.FormService" />
+      <module name="FGestionBanque" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="predentation.palet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeftBarButtons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predentation.vue.LeftBarButtons" />
+      <module name="FGestionBanque" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="predentation.palet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predentation.vue.LoginForm" />
+      <module name="FGestionBanque" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="predentation.palet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaBanque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predentation.controleur.MaBanque" />
+      <module name="FGestionBanque" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="predentation.controleur.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vue.MyFrame" />
+      <module name="FGestionBanque" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyFrame" />
+        <item itemvalue="Application.MaBanque" />
+        <item itemvalue="Application.LeftBarButtons" />
+        <item itemvalue="Application.FormService" />
+        <item itemvalue="Application.LoginForm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8403670b-01f8-4c07-b632-bcf375fbae47" name="Default Changelist" comment="" />
+      <created>1673035784858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673035784858</updated>
+      <workItem from="1673035787882" duration="5537000" />
+      <workItem from="1673044548009" duration="33000" />
+      <workItem from="1673290367032" duration="2083000" />
+      <workItem from="1673295723359" duration="45000" />
+      <workItem from="1673474393593" duration="1348000" />
+      <workItem from="1673537730974" duration="308000" />
+      <workItem from="1673707400760" duration="4000" />
+      <workItem from="1673722925024" duration="1482000" />
+      <workItem from="1673731618497" duration="29000" />
+      <workItem from="1673788034434" duration="1753000" />
+      <workItem from="1673790110574" duration="577000" />
+      <workItem from="1673862949989" duration="3972000" />
+      <workItem from="1673878784943" duration="3293000" />
+      <workItem from="1673896169351" duration="31000" />
+      <workItem from="1674150618212" duration="280000" />
+      <workItem from="1676232581330" duration="37000" />
+      <workItem from="1676239117936" duration="1384000" />
+      <workItem from="1676240551729" duration="1545000" />
+      <workItem from="1676242151704" duration="392000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1673040784517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1673040784517" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1676241649027">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1676241649027" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1673036824858">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1673036824858" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1676241502157">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1676241502157" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1676242547957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1676242547957" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1676242547957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1676242547957" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1676242547957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1676242547957" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1676242547957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1676242547957" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1676242547957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1676242547957" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1676242547957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1676242547957" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1676242547957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1676242547957" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1676242547957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1676242547957" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1676241996551">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1676241996551" />
+    <state x="209" y="33" key="new project wizard" timestamp="1673880560753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1673880560753" />
+    <state x="475" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1676239564427">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="41" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1676239564427" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1673882001129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1673882001129" />
+  </component>
+</project>
